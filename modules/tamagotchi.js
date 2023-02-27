@@ -86,13 +86,13 @@ export class tamagotchi {
    console.log(this.#div)
    
    if(this.#type === 'Monkey'){
-    this.#img.src= '/images/monkey.png'
+    this.#img.src= '/FE22-js2-mp2-Elias-Elkhayyati/images/monkey.png'
    }
    if(this.#type === 'Bear'){
-    this.#img.src= '/images/bear.png'
+    this.#img.src= '/FE22-js2-mp2-Elias-Elkhayyati/images/bear.png'
    }
    if(this.#type === 'Goat'){
-    this.#img.src= '/images/goat.png'
+    this.#img.src= '/FE22-js2-mp2-Elias-Elkhayyati/images/goat.png'
    }
    
    this.#paraForTitle = `${this.#name} ${this.#type}`
