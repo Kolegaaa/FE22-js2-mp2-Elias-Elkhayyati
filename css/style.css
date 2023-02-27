@@ -7,7 +7,7 @@ body{
     align-items: center;
     font-family: 'Phudu',sans-serif;
     font-size: 10px;
-    background: url(/images/background.jpg)
+    background: url(/FE22-js2-mp2-Elias-Elkhayyati/images/background.jpg)
 }
 #container{
     display: flex;
